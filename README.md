@@ -5,22 +5,8 @@ My name is Hang Zhou, and I am currently a second-year PhD student at the Univer
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zll-hust&theme=github" />
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zll-hust&theme=github" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zll-hust&theme=github" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zll-hust&theme=github" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zll-hust&theme=github&utcOffset=8" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zll-hust&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zll-hust&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zll-hust&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zll-hust&theme=github&utcOffset=8" />
 </div>
